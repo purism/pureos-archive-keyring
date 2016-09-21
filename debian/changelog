@@ -1,0 +1,5 @@
+pureos-archive-keyring (2016.09) landing; urgency=medium
+
+  * Initial release with the PureOS archive signing key
+
+ -- Matthias Klumpp <matthias.klumpp@puri.sm>  Wed, 21 Sep 2016 20:54:12 +0200

@@ -1,0 +1,1 @@
+4c06e9cebb577037c11c9efcde28bcfe  keyrings/pureos-archive-keyring.gpg

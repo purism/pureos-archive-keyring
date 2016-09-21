@@ -36,7 +36,7 @@ binary-indep: checkroot
 	$(install_file) keyrings/pureos-archive-removed-keys.gpg debian/tmp/usr/share/keyrings/
 
 	$(install_dir) debian/tmp/usr/share/doc/pureos-archive-keyring/
-	$(install_file) README debian/tmp/usr/share/doc/pureos-archive-keyring/
+	$(install_file) README.md debian/tmp/usr/share/doc/pureos-archive-keyring/
 	$(install_file) debian/changelog debian/tmp/usr/share/doc/pureos-archive-keyring/changelog
 	gzip -9v debian/tmp/usr/share/doc/pureos-archive-keyring/*
 	$(install_file) debian/copyright debian/tmp/usr/share/doc/pureos-archive-keyring/

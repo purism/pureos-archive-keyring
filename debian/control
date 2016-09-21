@@ -3,7 +3,7 @@ Section: misc
 Priority: important
 Maintainer: Matthias Klumpp <matthias.klumpp@puri.sm>
 Build-Depends: debhelper (>= 8), gnupg
-Standards-Version: 3.9.4
+Standards-Version: 3.9.8
 
 Package: pureos-archive-keyring
 Architecture: all
